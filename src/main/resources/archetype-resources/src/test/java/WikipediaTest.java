@@ -13,6 +13,8 @@ import com.cognifide.qa.bb.junit.Modules;
 import com.cognifide.qa.bb.junit.TestRunner;
 import com.google.inject.Inject;
 import ${package}.GuiceModule;
+import ${package}.pageobjects.WikipediaPage;
+import ${package}.pageobjects.DefinitionPage;
 
 @RunWith(TestRunner.class)
 @Modules(GuiceModule.class)

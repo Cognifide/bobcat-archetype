@@ -10,7 +10,6 @@ import com.cognifide.qa.bb.junit.Modules;
 import com.cognifide.qa.bb.junit.concurrent.ConcurrentSuite;
 
 import ${package}.GuiceModule;
-import ${package}.example.WikipediaTest;
 
 @Modules(GuiceModule.class)
 @RunWith(ConcurrentSuite.class)
