@@ -4,7 +4,7 @@
 
     <groupId>com.cognifide.qa.bb</groupId>
     <artifactId>bobcat-archetype</artifactId>
-    <version>0.9.3-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>maven-archetype</packaging>
 
     <name>bobcat-archetype</name>
@@ -34,7 +34,7 @@
     <scm>
         <connection>scm:git:git@github.com:Cognifide/bobcat-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:Cognifide/bobcat-archetype.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>1.0.0</tag>
         <url>https://github.com/Cognifide/bobcat-archetype</url>
     </scm>
 
